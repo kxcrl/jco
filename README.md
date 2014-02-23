@@ -1,3 +1,3 @@
 jeramy.co
 ==============
-My site. Built on Rails. More to come.
+My site. Built on Sinatra. More to come.
