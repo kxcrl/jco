@@ -1,0 +1,35 @@
+body {
+  margin: 0 0 0 0;
+  background-image:url("tweed.png");
+  background-repeat:repeat;
+}
+
+#nav {
+  height: 50px;
+  background-color: #000;
+  position: relative;
+  overflow: hidden;
+  padding: 0 0 0 0;
+}
+
+h1 {
+  text-align: left;
+  padding: 50px 0 0 60px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+#content {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 1000px;
+  background-color: rgba(255,255,255,0.5);
+}
+
+#logo-text {
+  font-size: 32px;
+  color: #FFF;
+  text-align: center;
+  margin: 4px 0 0 0;
+}

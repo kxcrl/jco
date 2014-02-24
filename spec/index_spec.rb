@@ -1,7 +1,8 @@
 require 'spec_helper'
 
-describe 'main page' do
+describe 'page' do
   subject { page }
   before { visit '/' }
-  it { should have_content 'Hang tight. More on the way.' }
+  it { should have_content 'jeramy.co' }
+  it { should have_content 'I believe' }
 end
