@@ -1,7 +1,8 @@
 body {
-  margin: 0 0 0 0;
+  /* image credit: subtlepatterns.com */
   background-image:url("tweed.png");
   background-repeat:repeat;
+  margin: 0 0 0 0;
 }
 
 #nav {
